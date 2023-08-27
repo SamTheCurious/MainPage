@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/SamTheCurious/MainPage/blob/master/ind6ex-removebg-preview-removebg-preview.png?raw=true)
+![Logo](https://github.com/SamTheCurious/MainPage/blob/master/LOGO%20ind6ex-removebg-preview.jpg?raw=true)
 
 
 # Hi, I'm Sam Adam! 👋
